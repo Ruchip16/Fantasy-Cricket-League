@@ -1,2 +1,2 @@
 # Fantasy-Cricket-League
-Fantasy Cricket League using Python 
+Its a game with GUI based application i.e using qt designer and sqlite studio.
